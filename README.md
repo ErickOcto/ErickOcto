@@ -1,4 +1,5 @@
 # Hi, I'm Frederick👋:
+![Frederick Octo Ramadani](github-header-banner.png)<br/><br/>
 🧑🏻‍💻 I Love sharing about my journey in learning Software Engineering<br/><br>🧑🏻‍🎓 Informatics IUP Student at Telkom University Bandung, Indonesia<br/><br>🧠 Currently learning about AI, Machine Learning and Software Architecture<br/><br>🧢 Making videos related to Computer Science, Tech and UIUX on [YouTube](https://www.youtube.com/@frederickocto3922)!<br/>
 
 
