@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hello World!!, These are technologies and project management i use to build a cool software!</p>
+<p align="left">Hello World!!, These are technologies and project management tools i use to build a cool software!</p>
 
 ###
 
