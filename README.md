@@ -132,3 +132,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/ErickOcto/ErickOcto/output/snake.svg" alt="Snake animation" />
+
+
+// im sorry im too busy to code right now :)
